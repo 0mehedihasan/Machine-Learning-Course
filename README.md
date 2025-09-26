@@ -10,9 +10,9 @@ Key Achievements:
 - ✅ **Comprehensive model comparison** (6 algorithms)
 
 ### Live Demo & Resources
--🌐 Live Demo: [Google Colab Notebook]([https://colab.research.google.com/drive/your-notebook-id](https://colab.research.google.com/drive/1UBGqgTrBXnwl9yGFK8cW1mmsGm9Pwctx?usp=sharing))
--📄 Research Paper: [Overleaf Document]([https://www.overleaf.com/read/abc123xyz456](https://www.overleaf.com/read/nmcdpqymcwtm#fcd055))
--📊 Dataset: [UCI Parkinson's Dataset](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
+-🌐 Live Demo: [Google Colab Notebook]([https://colab.research.google.com/drive/your-notebook-id](https://colab.research.google.com/drive/1UBGqgTrBXnwl9yGFK8cW1mmsGm9Pwctx?usp=sharing)) <br>
+-📄 Research Paper: [Overleaf Document]([https://www.overleaf.com/read/abc123xyz456](https://www.overleaf.com/read/nmcdpqymcwtm#fcd055)) <br>
+-📊 Dataset: [UCI Parkinson's Dataset](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification) <br>
 
 ## 🚀 Key Features
 ### 🔬 Scientific Rigor
