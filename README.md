@@ -49,7 +49,7 @@ Parkinson's Disease (PD) is a progressive neurodegenerative disorder affecting m
 - **Shimmer Measures**: Cycle-to-cycle amplitude variation  
 - **Nonlinear Dynamics**: RPDE, DFA, Spread1, Spread2, PPE
 
-**Dataset Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
+**Dataset Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/174/parkinsons)
 
 ## 🔬 Methodology
 
