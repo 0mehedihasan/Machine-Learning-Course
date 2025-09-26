@@ -99,7 +99,7 @@ metrics = ['accuracy', 'precision', 'recall', 'f1_score', 'roc_auc']
 
 ## 👥 Authors
 
-- **Md Mehedi Hasan** - *Lead Researcher* - [@mehedihasan](https://github.com/mehedihasan)
+- **Md Mehedi Hasan** - *Lead Researcher* - [@0mehedihasan](https://github.com/0mehedihasan)
 - **Most. Sonia Islam** - *Co-Researcher* - [@soniaislam](https://github.com/soniaislam)  
 - **Lamia Muntaha** - *Co-Researcher* - [@lamiamuntaha](https://github.com/lamiamuntaha)
 
