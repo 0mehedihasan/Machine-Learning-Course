@@ -1,10 +1,8 @@
-
-```markdown
 # Title : Machine Learning Approaches for Early Detection and Severity Prediction of Parkinson's Disease from Voice Features
 ## 🌟 Overview
 
 Parkinson's Disease (PD) is a progressive neurodegenerative disorder affecting millions worldwide. This project implements a robust machine learning pipeline for PD detection using vocal biomarkers extracted from sustained phonations. Our framework addresses critical challenges in medical AI including data leakage prevention, class imbalance handling, and model interpretability.
-**Key Achievements:**
+Key Achievements:
 - ✅ **90% Accuracy** with XGBoost classifier
 - ✅ **93.33% F1-Score** demonstrating balanced performance
 - ✅ **Patient-level splitting** preventing data leakage
@@ -118,7 +116,7 @@ We would like to acknowledge:
 
 **⭐️ Don't forget to star this repository if you find it useful!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/parkinsons-detection&type=Date)](https://star-history.com/#yourusername/parkinsons-detection&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=/0mehedihasan/Machine-Learning-Course)](https://star-history.com/0mehedihasan/Machine-Learning-Course)
 
 </div>
 ```
