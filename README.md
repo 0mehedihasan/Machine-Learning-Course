@@ -12,7 +12,7 @@ Parkinson's Disease (PD) is a progressive neurodegenerative disorder affecting m
 ### Live Demo & Resources
 -🌐 Live Demo: [Google Colab Notebook](https://colab.research.google.com/drive/1UBGqgTrBXnwl9yGFK8cW1mmsGm9Pwctx?usp=sharing) <br>
 -📄 Research Paper: [Overleaf Document](https://www.overleaf.com/read/nmcdpqymcwtm#fcd055)<br>
--📊 Dataset: [UCI Parkinson's Dataset](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification) <br>
+-📊 Dataset: [UCI Parkinson's Dataset](https://archive.ics.uci.edu/dataset/174/parkinsons) <br>
 
 ## 🚀 Key Features
 ### 🔬 Scientific Rigor
